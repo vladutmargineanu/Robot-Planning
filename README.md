@@ -8,7 +8,7 @@ Homeworks for the Data Structures course @ ACS, UPB 2018.
  Problemele intampinate:
  - enunt ambiguu (neexplicit) sau greu de inteles
  - memory-leak-uri
- - transmiterea multor paramtrii in functii
+ - transmiterea unui numar mare de paramtrii in functii
  - erori de coding-style
  - solutie nefunctionala: retinerea ultimei comenzi procesate de un robot
    intr-o structura (la intalnirea a doua comenzii consecutive de UNDO,
