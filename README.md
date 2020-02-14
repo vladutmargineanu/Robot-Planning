@@ -2,8 +2,8 @@
 Homeworks for the Data Structures course @ ACS, UPB 2018.
 
 # Robot-Planning
- Data inceperii temei: 19-03-2018
- Data finalizarii temei: 04-04-2018
+  Data inceperii temei: 19-03-2018
+  Data finalizarii temei: 04-04-2018
 
  Problemele intampinate:
  - enunt ambiguu (neexplicit) sau greu de inteles
